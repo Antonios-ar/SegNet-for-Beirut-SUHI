@@ -3,3 +3,4 @@ This reporitory contains the code for my M2 thesis "A remote sensing approach fo
 The code used in this thesis is an implementation of the code form the "Beyond RGB study".
 Citation: Nicolas Audebert, Bertrand Le Saux and Sébastien Lefèvre
 "Beyond RGB: Very high resolution urban remote sensing with multimodal deep networks", ISPRS Journal of Photogrammetry and Remote Sensing, 2017.
+The data used in the study is also available in this repository.
